@@ -1,0 +1,11 @@
+{
+   "name": "RNProject",
+   "displayName": "RNProject",
+   "package": "com.RNProject",
+   "android": {
+      "versionCode": ""
+   },
+   "ios": {
+      "bundleId": ""
+   }
+}
