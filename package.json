@@ -1,0 +1,16 @@
+{
+   "name": "react-native-template",
+   "version": "0.0.1",
+   "description": "React Native Template",
+   "repository": "https://github.com/akkyjumbade/react-native-template",
+   "author": "Akshay Jumbade <akkyjumbade@gmail.com>",
+   "license": "MIT",
+   "dependencies": {
+      "formik": "^2.2.9",
+      "lodash": "^4.17.21",
+      "react-native-gesture-handler": "^1.10.3",
+      "react-native-modalize": "^2.0.10",
+      "react-native-portalize": "^1.0.7",
+      "styled-components": "^5.3.3"
+   }
+}
